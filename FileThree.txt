@@ -1,0 +1,16 @@
+------- NUMERO 3 EN LAS UNIDADES -------
+1113 , 
+
+
+------- NUMERO 3 EN LAS DECENAS -------
+1234 , 1234 , 1235 , 1236 , 
+
+
+------- NUMERO 3 EN LAS CENTENAS -------
+2345 , 5392 , 
+
+
+------- NUMERO 3 EN LOS MILES -------
+3000 , 
+
+

@@ -1,0 +1,16 @@
+------- NUMERO 5 EN LAS UNIDADES -------
+2345 , 1235 , 
+
+
+------- NUMERO 5 EN LAS DECENAS -------
+1850 , 1759 , 
+
+
+------- NUMERO 5 EN LAS CENTENAS -------
+2500 , 
+
+
+------- NUMERO 5 EN LOS MILES -------
+5000 , 5392 , 
+
+
